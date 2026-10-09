@@ -192,7 +192,7 @@ For a bug report, include the shader filename, Dolphin version, OS/device, graph
 
 ## Credits and licensing status
 
-Original CRT Emulation by **Mattias Gustavsson**, [Shadertoy source](https://www.shadertoy.com/view/lsB3DV). This port uses the classic shader distributed by Libretro, not NewPixie-CRT.
+Original CRT Shader by **Mattias Gustavsson**, [Shadertoy source](https://github.com/libretro/glsl-shaders/blob/master/crt/shaders/crt-mattias.glsl). This port uses the classic shader distributed by Libretro.
 
 **The redistribution terms for the exact classic source have not been verified.** No MIT, GPL, or other license is asserted for this derivative. Attribution is retained, but attribution alone does not establish permission. See [NOTICE.md](NOTICE.md) for source provenance and the outstanding question.
 
