@@ -76,15 +76,15 @@ If Dolphin keeps using previously saved settings, give the edited shader a new f
 
 Screenshots coming soon.
 
-| Emulator | Shader | Screenshot |
-|---|---|---|
-| RetroArch | Original CRT Mattias | To be added |
-| Dolphin | Original | To be added |
-| Dolphin | Soft | To be added |
-| Dolphin | Strong | To be added |
-| Dolphin | Performance | To be added |
-| Dolphin | Performance Soft | To be added |
-| Dolphin | Performance Strong | To be added |
+| Shader | Screenshot |
+|---|---|
+| No Shader | <img width="1280" height="960" alt="Screenshot_20261009-163234" src="https://github.com/user-attachments/assets/ab2c35ec-9263-45bb-8730-d63411762d29" /> |
+| Original | <img width="1280" height="960" alt="Screenshot_20261009-163301" src="https://github.com/user-attachments/assets/67288b78-7298-43b1-979d-2a3227dbbf0c" /> |
+| Soft | <img width="1280" height="960" alt="Screenshot_20261009-163346" src="https://github.com/user-attachments/assets/c97e64c5-5cca-4b82-87b4-5e2283e76e77" /> |
+| Strong | <img width="1280" height="960" alt="Screenshot_20261009-163411" src="https://github.com/user-attachments/assets/fbfea99a-3fb6-44f6-a2eb-a5e453a7fb78" /> |
+| Performance | <img width="1280" height="960" alt="Screenshot_20261009-163434" src="https://github.com/user-attachments/assets/012644fd-e7ef-4bcf-8814-f32c0f9c5503" /> |
+| Performance Soft | <img width="1280" height="960" alt="Screenshot_20261009-163500" src="https://github.com/user-attachments/assets/4cb481a3-4392-480f-9123-825b3706f765" /> |
+| Performance Strong | <img width="1280" height="960" alt="Screenshot_20261009-163522" src="https://github.com/user-attachments/assets/13c21ae7-5955-484f-9f4f-3eb74080838d" /> |
 
 ## Compatibility
 
